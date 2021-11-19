@@ -15,7 +15,7 @@ setup(
     description="Python library to integrate axe and selenium for web \
                 accessibility testing.",
     long_description=open("README.rst").read(),
-    url="http://github.com/mozilla-services/axe-selenium-python",
+    url="https://github.com/jinluCap/axe-selenium-python",
     author="Kimberly Sereduck",
     author_email="ksereduck@mozilla.com",
     packages=find_packages(),
