@@ -8,9 +8,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kimberlythegeek/axe-selenium-python.git"
+    "url": "git+https://github.com/jinluCap/axe-selenium-python.git"
   },
-  "author": "Kimberly Sereduck",
+  "author": "Jin Lu",
   "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/kimberlythegeek/axe-selenium-python/issues"
